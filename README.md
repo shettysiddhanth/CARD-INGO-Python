@@ -1,4 +1,4 @@
-# CARD-INGO-Python
+# CARD-INGO
 
 
 Course Code: ENGG1330
