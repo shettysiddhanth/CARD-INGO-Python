@@ -1,6 +1,6 @@
 # CARD-INGO
 
-
+```
 Course Code: ENGG1330
 Course Title: Computer Programming I
 Sub Class: 1H1
@@ -30,3 +30,4 @@ HOW TO PLAY "CARD-INGO"
         -> 'Yes/No', if 'No', the control goes back to the main function, and runs the 'last' function which prints a Thank You message and the Project information
 
 The name 'CARD-INGO' is inspired from the game 'BINGO' !
+```
